@@ -1,0 +1,15 @@
+{
+	"name": "node-data-structure",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"type": "module",
+	"scripts": {
+		"stack": "node src/stack/index.mjs",
+		"queue": "node src/queue/index.mjs",
+		"queue:priority": "node src/queuePriority/index.mjs",
+		"list:linked": "node src/linkedList/index.mjs",
+		"list:doubly": "node src/linkedListDoubly/index.mjs"
+		"set": "node src/set/index.mjs"
+	}
+}
