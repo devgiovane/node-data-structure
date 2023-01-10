@@ -1,4 +1,4 @@
-import { Set } from './set.mjs';
+import { Set } from './Set.mjs';
 
 const setA = new Set();
 setA.add(1);

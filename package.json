@@ -9,7 +9,8 @@
 		"queue": "node src/queue/index.mjs",
 		"queue:priority": "node src/queuePriority/index.mjs",
 		"list:linked": "node src/linkedList/index.mjs",
-		"list:doubly": "node src/linkedListDoubly/index.mjs"
-		"set": "node src/set/index.mjs"
+		"list:doubly": "node src/linkedListDoubly/index.mjs",
+		"set": "node src/set/index.mjs",
+		"dictionary": "node src/dictionary/index.mjs"
 	}
 }

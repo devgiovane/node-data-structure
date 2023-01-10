@@ -1,5 +1,8 @@
 export class Set {
-
+	/**
+	 *
+	 * @type {Object}
+	 */
 	#items = {};
 
 	/**
