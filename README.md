@@ -12,6 +12,8 @@
 - Linked list
 - Doubly linked list
 - Set
+- Dictionary
+- Tree
 
 ### Commands
 
@@ -22,6 +24,8 @@ yarn queue:priority
 yarn list:linked
 yarn list:doubly
 yarn set
+yarn dictionary
+yarn tree
 ```
 
 ### Create by

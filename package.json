@@ -11,6 +11,7 @@
 		"list:linked": "node src/linkedList/index.mjs",
 		"list:doubly": "node src/linkedListDoubly/index.mjs",
 		"set": "node src/set/index.mjs",
-		"dictionary": "node src/dictionary/index.mjs"
+		"dictionary": "node src/dictionary/index.mjs",
+		"tree": "node src/tree/index.mjs"
 	}
 }

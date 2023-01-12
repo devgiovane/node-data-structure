@@ -20,6 +20,15 @@ export class LinkedList {
 	#head = null;
 
 	/**
+	 * Return head item in linkedList.
+	 *
+	 * @returns {Node|null}
+	 */
+	getHead() {
+		return this.#head;
+	}
+
+	/**
 	 * Push in linkedList.
 	 *
 	 * @param element
