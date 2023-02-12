@@ -74,4 +74,11 @@ export class Dictionary {
 	values() {
 		return Object.values(this.#items);
 	}
+
+	/**
+	 * Print Dictionary
+	 */
+	toString() {
+		console.log(this.#items);
+	}
 }
