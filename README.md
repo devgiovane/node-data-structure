@@ -15,6 +15,7 @@
 - Dictionary
 - Tree
 - Graph
+- Ordination
 
 ### Commands
 
@@ -28,6 +29,7 @@ yarn set
 yarn dictionary
 yarn tree
 yarn graph
+yarn ordination
 ```
 
 ### Create by
